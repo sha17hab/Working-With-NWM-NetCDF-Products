@@ -1,5 +1,10 @@
 # Working-With-NWM-NetCDF-Products
 
+Author: Shahab Afshari
+        Civil Engineering Department/Water Resources Program
+        City College of New York/City University of New York
+Email: safshar00@citymail.cuny.edu
+
 Description - PART 1: 
 Given a single or set of NHDPlus COMIDs (stored by a column of a CSV file that contains a single or 
 a set of NHDPlus COMIDs) plus NetCDF (*.nc) file(s) that stores National Water Model's (NWM) streamflow 
