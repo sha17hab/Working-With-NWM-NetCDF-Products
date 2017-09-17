@@ -11,3 +11,5 @@ Description - PART 2: After executing PART 1, PART 2 would be used to extract th
 the streamflow time-series associated with a single or multiple COMIDs. These extremum records associated
 with a single or multiple COMIDs will be save as CSV file named as "All_streamflow.csv" at the assigned 
 working directory. Requirements: "ncdf4" package.
+
+[![DOI](https://zenodo.org/badge/103839251.svg)](https://zenodo.org/badge/latestdoi/103839251)
